@@ -13,7 +13,7 @@ Note: these builds do and will NOT contain a scatter file. Please refer to the [
 
 ## Introduction
 
-The main purpose of the repository is to publicly release a version of the TWRP open source recovery that is suitable for and functional on the UHANS S1 model and to provide the source of the built recovery image, to allow existing users to gain greater control of their handsets, therefore, among others, allowing them to modify the official Freeme OS build running on their device and gain root privileges.
+The main purpose of the repository is to publicly release a version of the TWRP open source recovery that is suitable for and functional on the UHANS S1 model and to provide the source of the built recovery image, therefore enabling users to gain greater control of their handsets, and among others, allowing them to modify the official Freeme OS build running on their device and gain root privileges.
 
 ### Importance
 
